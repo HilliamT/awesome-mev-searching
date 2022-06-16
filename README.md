@@ -1,4 +1,4 @@
-# Awesome MEV Searcher Resources
+# Awesome MEV Resources for Searchers
 
 ## What is MEV?
 
