@@ -38,6 +38,8 @@
 - [Flashbots to Avoid Mempool Frontrunners](https://twitter.com/ChainsightLabs/status/1483295952236691457)
 - [Spray and Pray](https://twitter.com/0xcarnation/status/1512632586295779337?s=21&t=MfIsSiGf3egJwGeqeRXhOQ)
 
+## Optimising Gas Costs
+- [On Efficient Ethereum Addresses](https://medium.com/coinmonks/on-efficient-ethereum-addresses-3fef0596e263)
 
 ## Traps
 - [It’s a trap - Dean Eigenmann (Dialectic) @ mev.day](https://www.youtube.com/watch?v=zGz410AJEEs)
