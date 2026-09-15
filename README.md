@@ -49,3 +49,4 @@
 - [Symbolic MEV extraction - Georgios Konstantopoulos (Paradigm)](https://www.youtube.com/watch?v=VkSR9jz_C-0)
 - [Reinforcement Learning for MEV - @mevalphaleak](https://twitter.com/mevalphaleak/status/1395147643471515649)
 - [Procedural Approaches towards MEV - Sam Bacha](https://github.com/sambacha/Procedural-Approaches-Towards-MEV)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
