@@ -49,3 +49,5 @@
 - [Symbolic MEV extraction - Georgios Konstantopoulos (Paradigm)](https://www.youtube.com/watch?v=VkSR9jz_C-0)
 - [Reinforcement Learning for MEV - @mevalphaleak](https://twitter.com/mevalphaleak/status/1395147643471515649)
 - [Procedural Approaches towards MEV - Sam Bacha](https://github.com/sambacha/Procedural-Approaches-Towards-MEV)
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure agent, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
